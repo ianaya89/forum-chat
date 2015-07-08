@@ -1,0 +1,25 @@
+fieldset {
+  text-align: right;
+}
+
+#lblStatus {
+  color: red;
+}
+
+#chats {
+  padding: 20px;
+  overflow: auto;
+  height: 800px
+}
+
+.rigth div {
+  position: absolute;
+  right: 0px;
+  width: 50%;
+}
+
+.left div {
+  position: absolute;
+  left: 0px;
+  width: 50%;
+}
